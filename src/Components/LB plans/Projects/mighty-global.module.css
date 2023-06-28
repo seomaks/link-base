@@ -1,0 +1,14 @@
+.header {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    color: #F9F9FE;
+}
+
+.item {
+    margin: 20px;
+    color: #000000;
+    text-decoration: none;
+}

@@ -6,6 +6,7 @@ export const Header = () => {
     <div className={style.header}>
       <Link to="login" className={style.item}>Login</Link>
       <Link to="/" className={style.item}>Link base</Link>
+      <Link to="plans" className={style.item}>LB Plans</Link>
     </div>
   );
 }

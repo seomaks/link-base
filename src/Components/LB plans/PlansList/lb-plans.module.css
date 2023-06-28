@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.main ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.gambList li::before {
+    content: "★";
+    font-size: 20px;
+    color: #000000;
+}
+
+.betList li::before {
+    content: "⚽";
+    font-size: 15px;
+    color: #000000;
+}
+
+.item {
+    color: #000000;
+    text-decoration: none;
+}
