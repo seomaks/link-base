@@ -78,8 +78,8 @@ export const LinkBase = () => {
       editable: true,
     },
     {
-      field: 'For_the_project',
-      headerName: 'For the project',
+      field: 'Project',
+      headerName: 'Project',
       type: 'string',
       width: 150,
       editable: true,
